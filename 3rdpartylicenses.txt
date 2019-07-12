@@ -325,9 +325,6 @@ MIT
 @angular/router
 MIT
 
-@angular/animations
-MIT
-
 @angular/cdk
 MIT
 The MIT License
@@ -353,12 +350,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/bottom-sheet
+@angular/material/card
 
-@angular/material/dialog
+@angular/animations
+MIT
+
+@angular/material/form-field
 
 @angular/forms
 MIT
+
+@angular/material/bottom-sheet
+
+@angular/material/dialog
 
 @angular/material/button
 

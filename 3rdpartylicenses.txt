@@ -360,11 +360,11 @@ MIT
 @angular/forms
 MIT
 
+@angular/material/button
+
 @angular/material/bottom-sheet
 
 @angular/material/dialog
-
-@angular/material/button
 
 @angular/material/datepicker
 

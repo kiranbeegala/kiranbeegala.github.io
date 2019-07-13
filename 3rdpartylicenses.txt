@@ -342,9 +342,6 @@ MIT
 @angular/router
 MIT
 
-@angular/forms
-MIT
-
 @angular/cdk
 MIT
 The MIT License
@@ -375,9 +372,12 @@ THE SOFTWARE.
 @angular/animations
 MIT
 
-@angular/material/form-field
-
 @angular/material/button
+
+@angular/forms
+MIT
+
+@angular/material/form-field
 
 angularx-qrcode
 MIT
